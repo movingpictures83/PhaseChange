@@ -1,0 +1,2 @@
+Prefix plugins/PhaseChange/example/
+Plugin PhaseChange inputfile none outputfile output.txt
